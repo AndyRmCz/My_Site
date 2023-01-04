@@ -1,3 +1,20 @@
 body{
     background-color:#BBD4CE;
+    text-align: center;
+}
+
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color:lightslategrey;
+    border-width:7px;
+    width:20%;
+}
+
+h1, h2{
+    color:#679186;
+}
+
+.profile-picture{
+    height: 150px;
 }
