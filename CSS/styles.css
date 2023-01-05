@@ -1,6 +1,7 @@
 body{
     background-color:#BBD4CE;
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
 }
 
 hr{
@@ -11,10 +12,32 @@ hr{
     width:20%;
 }
 
-h1, h2{
+h1{
     color:#679186;
+    font-family: 'Caveat', cursive;
+}
+
+h2, h3{
+    color: #679186;
+}
+
+.top-container{
+    position: relative;
+    padding-top: 70px;
 }
 
 .profile-picture{
     height: 150px;
+}
+
+.cloud1{
+    position: absolute;
+    top: 50px;
+    right: 400px;
+}
+
+.cloud2{
+    position: absolute;
+    top: 250px;
+    left:400px ;
 }
